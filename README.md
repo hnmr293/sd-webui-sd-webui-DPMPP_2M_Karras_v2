@@ -12,12 +12,19 @@ Negative prompt: (low quality, worst quality:1.4), nsfw, maid, dutch angle, deta
 Steps: 30, CFG scale: 7, Size: 512x512, ENSD: 31337
 ```
 
-left: DPM++ 2M Karras
+## Examples
 
-right: DPM++ 2M Karras (suggested)
+- Left: DPM++ 2M Karras
+- Right: DPM++ 2M Karras test (suggested)
+
+Model: 7th_anime_v3_A
 
 ![DPM++ 2M Karras](./images/sample2a.png)
+
 ![DPM++ 2M Karras test](./images/sample2b.png)
 
+Model: Basil mix
+
 ![DPM++ 2M Karras](./images/sample3a.png)
+
 ![DPM++ 2M Karras test](./images/sample3b.png)
