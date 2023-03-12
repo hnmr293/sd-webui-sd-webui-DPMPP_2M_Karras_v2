@@ -91,7 +91,8 @@ def add_dpmpp_2m_test():
     
     data = sd_samplers_common.SamplerData(label, constructor, aliases, options)
     
-    sd_samplers.all_samplers.append(data)
+    if len([ x for x in sd_samplers.all_samplers if x.name == label ]) == 0:
+        sd_samplers.all_samplers.append(data)
 
 
 def update_samplers():
