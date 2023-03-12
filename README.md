@@ -14,8 +14,8 @@ Steps: 30, CFG scale: 7, Size: 512x512, ENSD: 31337
 
 ## Examples
 
-- Left: DPM++ 2M Karras
-- Right: DPM++ 2M Karras test (suggested)
+- Upper: DPM++ 2M Karras
+- Lower: DPM++ 2M Karras test (suggested)
 
 Model: 7th_anime_v3_A
 
